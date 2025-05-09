@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Gilmer
 
 I'm a Systems Engineer based in Medellín, Colombia.
+
 I love working with technology, leading IT support teams, and automating repetitive tasks to make life easier.
 
 🔧 **What I do:**

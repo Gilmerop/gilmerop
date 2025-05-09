@@ -22,4 +22,4 @@ This is where I document, build and test real-world solutions — both for work 
 [LinkedIn 🌐](https://www.linkedin.com/in/gilmerop10/)
 
 ---
-*"Simplicity is the soul of efficiency." – Austin Freeman*
+*"Simplicity is the ultimate sophistication." – Leonardo da Vinci*

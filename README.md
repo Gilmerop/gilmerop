@@ -6,7 +6,7 @@ I love working with technology, leading IT support teams, and automating repetit
 🔧 **What I do:**
 - 🛠️ IT Support & Infrastructure
 - 🧠 Documenting and sharing technical knowledge
-- 💡 Tools I use regularly: Bash, PowerShell, Git
+- 💡 Tools I use regularly: ⚡ PowerShell • ☁️ Azure • 🖥️ Windows Server (AD, DNS, GPO, RDP) • 🧰 Git • 🐧 Bash
 
 🚀 **Currently learning and exploring:**
 - Self-hosting with Proxmox and VPN solutions

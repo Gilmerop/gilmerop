@@ -19,7 +19,7 @@ I love working with technology, leading IT support teams, and automating repetit
 This is where I document, build and test real-world solutions — both for work and personal growth.
 
 📬 **Let’s connect:**  
-[LinkedIn](https://www.linkedin.com/in/gilmerop10/)
+[LinkedIn 🌐](https://www.linkedin.com/in/gilmerop10/)
 
 ---
 *"Simplicity is the soul of efficiency." – Austin Freeman*

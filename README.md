@@ -5,17 +5,17 @@ I love working with technology, leading IT support teams, and automating repetit
 
 🔧 **What I do:**
 - 🛠️ IT Support & Infrastructure
-- 📦 Self-hosting with Proxmox, Docker, and Linux
 - 🧠 Documenting and sharing technical knowledge
-- 🧰 Tools I enjoy: Bash, PowerShell, Git, Ansible
+- 💡 Tools I use regularly: Bash, PowerShell, Git
 
-📌 **Current focus:**
-- Exploring Linux deeply (Ubuntu-based distros)
-- Improving IT workflows via scripting and automation
-- Building my home server lab with Proxmox and VPNs
-- Learning about cybersecurity fundamentals
+🚀 **Currently learning and exploring:**
+- Self-hosting with Proxmox and VPN solutions
+- Linux deeply (Ubuntu-based distros)
+- Scripting and workflow automation
+- Cybersecurity fundamentals
+- Docker (just getting started!)
 
-🚀 **My repositories are my lab**  
+🧪 **My repositories are my lab**  
 This is where I document, build and test real-world solutions — both for work and personal growth.
 
 📬 **Let’s connect:**  
